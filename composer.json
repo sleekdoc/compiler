@@ -1,5 +1,5 @@
 {
-    "name": "daison/sleek-doc",
+    "name": "sleekdoc/sleekdoc",
     "description": "This generates a documentation based on class doc-block which able to handle XML and REST api's",
     "authors": [
         {
